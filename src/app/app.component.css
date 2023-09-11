@@ -1,0 +1,9 @@
+.title {
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0;
+  padding: 10px;
+  color: blue;
+  border: solid 1px red;
+  text-align: center;
+}
