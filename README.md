@@ -12,7 +12,6 @@ This repository contains an Angular application that demonstrates how to impleme
   - [ApiDataService](#apidataservice)
   - [AppComponent](#appcomponent)
 - [Example](#example)
-- [License](#license)
 
 ## Prerequisites
 
@@ -27,7 +26,7 @@ Before running this Angular application, make sure you have the following prereq
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/NashTech-Labs/angular-ag-grid-demo
    ```
 
 2. Navigate to the project directory:
