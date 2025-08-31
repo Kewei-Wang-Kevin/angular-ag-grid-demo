@@ -1,5 +1,6 @@
 <div class="p-3 m-3">
   <h1 class="title">Public APIs For Testing</h1>
+  <button (click)="getSelectedYesData()">GetSelectedYesData</button>
   <ng-container *ngIf="isLoading;else showTable">
     <div class="d-flex justify-content-center">
       <div class="spinner-border text-primary " role="status">
